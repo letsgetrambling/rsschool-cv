@@ -1,9 +1,9 @@
 
-####Konstantin Lemesh
+#### Konstantin Lemesh
 
 ---
 
-####Contact information:
+#### Contact information:
 
 
 **Phone:** +375 29 366-81-95
@@ -14,7 +14,7 @@
 
 ---
 
-####Briefly About Myself:
+#### Briefly About Myself:
 
 Prospective Java-developer who wants to work in a good project. I am eager to implement my previous experience, current studies, diligence, capacity to study, communications skills in my future project. As a former retail business owner, i am able to work in stressful conditions for a long period of time, capable to solve conflict situations, able to solve multitask situations, able to work in a team. 
 
