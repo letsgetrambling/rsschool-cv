@@ -6,8 +6,8 @@
 ####Contact information:
 
 
-**Phone:** +37529366 8195
-**E-mail:** okramblers@gmail.com
+**Phone:** +375 29 366-81-95
+**E-mail:** <okramblers@gmail.com>
 **Telegram:** @konstantinlemesh
 **Discord:** @letsgetrambling#4507
 **Location:** Minsk, Belarus
@@ -32,7 +32,7 @@ none
 ---
 
 #### Experience 
-* [Site content filling](http://bachyc.by/)
+* [One of responsibilities at my former job was to fill the catalog with goods](http://bachyc.by/)
 
 ---
 
