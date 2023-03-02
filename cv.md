@@ -6,11 +6,11 @@
 #### Contact information:
 
 
-**Phone:** +375 29 366-81-95
-**E-mail:** <okramblers@gmail.com>
-**Telegram:** @konstantinlemesh
-**Discord:** @letsgetrambling#4507
-**Location:** Minsk, Belarus
+**Phone:** +375 29 366-81-95  
+**E-mail:** <okramblers@gmail.com>  
+**Telegram:** @konstantinlemesh  
+**Discord:** @letsgetrambling#4507  
+**Location:** Minsk, Belarus  
 
 ---
 
