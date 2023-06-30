@@ -18,11 +18,27 @@ Prospective Java-developer who wants to work in a good project. I am eager to im
 
 #### Skills:
 
-Programming: SQL, Python
+- Git, GitHub
+- VS Code
+- Adobe Photoshop
+- HTML5, CSS3, JavaScript Basics
 
-#### Code examples:
+#### Code example:
 
-none
+**7 kyu Fix My Phone Numbers! from Codewars:** Given a string, you must decide whether or not it contains a valid phone number. If it does, return the corrected phone number as a string ie. `'02078834982'` with no whitespace or special characters, else return `"Not a phone number"`.
+
+```
+function isItANum(str) {
+  let array = str.split("");
+let number = array.filter(item => item === "0" || item === "1" || item === "2" || item === "3" || item === "4"|| item === "5" || item === "6" || item === "7" || item === "8" || item === "9");;
+let numberString = number.join("");
+  if ( numberString.length === 11 && numberString[0] == 0) {
+  return numberString;
+} else {
+  return "Not a phone number";
+}
+}
+```
 
 #### Experience
 
