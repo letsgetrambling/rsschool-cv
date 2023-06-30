@@ -23,6 +23,8 @@ Prospective Java-developer who wants to work in a good project. I am eager to im
 - Adobe Photoshop
 - HTML5, CSS3, JavaScript Basics
 
+---
+
 #### Code example:
 
 **7 kyu Fix My Phone Numbers! from Codewars:** Given a string, you must decide whether or not it contains a valid phone number. If it does, return the corrected phone number as a string ie. `'02078834982'` with no whitespace or special characters, else return `"Not a phone number"`.
@@ -40,19 +42,21 @@ let numberString = number.join("");
 }
 ```
 
+---
+
 #### Experience
 
-- [Olga Mardvilko courses](https://olgamardvilko.github.io/up-skill-lab/#ide)
 - [Site administration](http://bachyc.by/)
+
+---
 
 #### Education
 
-B.S.
-BSEU
-Economics and management at an industrial enterprise
+**B.A. in Economics and Management of Industrial Enterprise**, The School of Economics and Management, Belarusian State Economic University
 
-#### English
+---
 
-- language school
-- english lessons during university
-- language courses
+#### Languages:
+
+- English - Upper-intermediate (Gymnasium with intensive study of English, Streamline language courses, Minsk State Linguistic University language courses )
+- Russian - Native
