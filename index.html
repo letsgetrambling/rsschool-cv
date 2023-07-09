@@ -51,5 +51,99 @@
         </nav>
       </div>
     </header>
+    <main class="main">
+      <div class="container main-container">
+        <div class="left-side">
+          <section class="contacts" id="contacts">
+            <h2 class="section-title">Contacts</h2>
+            <ul class="contacts-list">
+              <li class="contacts-item">Minsk, Belarus</li>
+              <li class="contacts-item">Email: okramblers@gmail.com</li>
+              <li class="contacts-item">Github:</li>
+              <li class="contacts-item">Telegram:</li>
+              <li class="contacts-item">Discord</li>
+            </ul>
+          </section>
+          <section class="summary" id="summary">
+            <h2 class="section-title">Summary</h2>
+            <p>
+              Prospective Java-developer who wants to work in a good project. I
+              am eager to implement my previous experience, current studies,
+              diligence, capacity to study, communications skills in my future
+              project. As a former retail business owner, i am able to work in
+              stressful conditions for a long period of time, capable to solve
+              conflict situations.
+            </p>
+          </section>
+          <section class="code" id="code">
+            <h2 class="section-title">Code</h2>
+            <p>
+              7 kyu Reverse words from Codewars: Complete the function that
+              accepts a string parameter, and reverses each word in the string.
+              All spaces in the string should be retained.
+            </p>
+            <pre class="pre">
+                <code>
+                    function reverseWords(str) {
+                        // Go for it
+                        let newArray = str.split(' ');
+                      let reverseResult = newArray.map(function(item) {
+                      let splitItem = item.split("");
+                      let reverseArray = splitItem.reverse();
+                      let joinArray = reverseArray.join("");
+                      return joinArray;
+                      });
+                        let result = reverseResult.join(" ");
+                        return result;
+                        }
+                </code>
+            </pre>
+          </section>
+        </div>
+        <div class="right-side">
+          <section class="education" id="education">
+            <h2 class="section-title">Education</h2>
+            <p>B.A. in Economics and Management of Industrial Enterprise</p>
+            <p>The School of Economics and Management</p>
+            <p>Belarusian State Economic University</p>
+          </section>
+          <section class="english" id="education">
+            <h2 class="section-title">English</h2>
+            <p>Upper-intermediate:</p>
+            <ul class="english-list">
+              <li class="english-item">
+                Gymnasium with intensive study of English
+              </li>
+              <li class="english-item">Streamline language courses</li>
+              <li class="english-item">
+                Minsk State Linguistic University language courses
+              </li>
+            </ul>
+          </section>
+          <section class="experience" id="experience">
+            <h2 class="section-title">Experience</h2>
+            <a href="https://bachyc.by/">Site administration</a>
+          </section>
+          <section class="skills" id="skills">
+            <h2 class="section-title">Skills</h2>
+            <ul class="skills-list">
+              <li class="skills-item">Git, GitHub</li>
+              <li class="skills-item">VS Code</li>
+              <li class="skills-item">Adobe Photoshop</li>
+              <li class="skills-item">HTML5, CSS3, JavaScript Basics</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="container footer-container">
+        <div>
+          <p>&copy 2023</p>
+          <a href="https://github.com/letsgetrambling">letsgetrambling</a>
+        </div>
+        <a href="https://app.rs.school/"></a>
+      </div>
+    </footer>
   </body>
 </html>
