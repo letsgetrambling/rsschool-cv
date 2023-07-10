@@ -1,11 +1,14 @@
+@font-face {
+    font-family: gt-pressura;
+     src: url("./assets/fonts/GT\ Pressura\ Mono\ Regular\ Regular.ttf");
+   }
 * {
     box-sizing: border-box;
   }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Roboto', sans-serif;
-}
+    font-family: 'gt-pressura', sans-serif;
+    }
 
 .container {
     max-width: 1440px;
@@ -52,15 +55,37 @@ body {
 
   .left-side {
     width: 70%;
+    padding: 0 30px;
+  }
+
+  .contacts-item a {
+    text-decoration: none;
+    color: black;
+  }
+  .pre {
+    background-color: #e8e3d8;
+    color: white;
+
+
   }
 
   .right-side {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     width: 30%;
     background-color: #f3f3f3;
+    padding: 0 30px;
+  }
+
+  .experience a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .experience a:hover {
+    color:#b1ff39;
   }
 
   .footer-container {
@@ -68,11 +93,33 @@ body {
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
+    padding: 15px 40px;
+    background-color: #e9d5ff;
   }
 
   .footer-container div {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #f3f3f3;
+    border-radius: 6px;
+    padding: 0 10px;
   }
 
+  .footer-container div a {
+    padding-left: 25px;
+    text-decoration: none;
+    color: black;
+  }
+
+  .footer-container div a:hover {
+    background-color: #b1ff39;
+  }
+
+  .rss {
+    width: 121px;
+    height: 45px;
+    background-image: url(./assets/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
